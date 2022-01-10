@@ -1,0 +1,1 @@
+web: python3 server/backend/manage.py runserver
